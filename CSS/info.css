@@ -1,0 +1,27 @@
+#info{
+    background-color: rgb(59, 59, 62);
+    color: rgb(250, 247, 252);
+    text-align: center;
+    padding: 30px;
+}
+
+#info h2{
+    padding: 15px;
+    text-transform: uppercase;
+
+}
+#info .contenedor{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+.mascota{
+    margin: 20px;
+
+}
+.mascota img{
+    width: 200px;
+    height: 280px;
+    border-radius: 50%;
+    border: 7px solid #fff;
+}

@@ -1,0 +1,19 @@
+#ubicacion{
+    background:#fff ;
+    color: rgb(57, 98, 84);
+    text-align: center;
+    padding: 50px;
+}
+#ubicacion .contenedor{
+
+    padding: 45px;
+}
+#ubicacion .contenedor iframe{
+   
+    border: 5px solid #060606 ;
+}
+#ubicacion .contenedor p{
+   
+    width:100% ;
+    
+}

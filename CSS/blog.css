@@ -1,0 +1,30 @@
+#especial{
+    text-align: center;
+}
+#especial h2{
+    padding: 15px;
+    text-transform: uppercase;
+     color: aqua;
+    
+}
+#blog{
+    padding: 50px;
+}
+#blog h4{
+    text-align: center;
+}
+#blog .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#blog article{
+    margin: 50px;
+}
+#blog img{
+    width: 280px;
+    max-width: 280px;
+    height: 280px;
+    border-radius: 5%;
+    border: 4px solid #1c925f;
+}
